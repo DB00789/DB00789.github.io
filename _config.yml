@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dana Badeen"
+title                    : "DB00789"
 title_separator          : "-"
-name                     : &name "Dana Badeen"
+name                     : &name "DB00789"
 description              : &description "MS student in HTI"
 url                      : https://DB00789.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dana Badeen"
+  name             : "DB00789"
   pronouns         : # example: "she/her"  
   bio              : "MS student in HTI, interested in AI and Robots"
   location         : "Eindhoven, Netherlands"
