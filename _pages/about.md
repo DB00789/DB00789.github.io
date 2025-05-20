@@ -23,8 +23,5 @@ Research is about exploring questions, not just answering them, so I’m giving 
 Thanks for visiting.
 
 
-Previous Lives
-------
-Prior to this I worked as a design consultant for Jacob Jensen Design and my own company Lines Designworks. As a consultant I worked on design strategy, digital and 3D product designs for lots of companies. For a little over a year, I ran the design and creatives teams at Flipkart.  
-I earned a BFA in industrial design with a focus in interaction design at the University of Washington in Seattle. And going back little further, I was a software developer / tester at Microsoft, after finishing my BSE in industrial and operations engineering at the University of Michigan. 
+
 
