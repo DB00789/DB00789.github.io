@@ -150,6 +150,9 @@ include:
   - _pages
   - files
 exclude:
+
+  - _pages/talks.html
+  - _pages/teaching.html
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
